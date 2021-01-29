@@ -1,7 +1,7 @@
 # findmy
 This is command line based searching utility for windows.
 
-# Window
+# Windows
 
 Run these command on command prompt as administrator
 
